@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    background: url(../images/hero-bg.png)no-repeat,#f9fcbd;
+    background: url(../images/hero-bg.png)no-repeat,#f5bdfc;
 }
 
 @font-face {
@@ -43,8 +43,8 @@ h1 {
     font-weight: 400;
     line-height: 90%;
     text-align: center;
-    color: #fffb85;
-    -webkit-text-stroke: 4px  #929625;
+    color: #ff85ed;
+    -webkit-text-stroke: 4px  #96258e;
 }
 h1 span {
     font-family: Brocil;
@@ -208,7 +208,7 @@ img{
 
 
 .header .navbar .left-side-menu a img {
-    width: 80%;
+    width: 50%;
     cursor: pointer;
     animation: bounceInDown 1s;
 }
@@ -307,7 +307,7 @@ img{
 ---------- */
 .hero-section {
     height: 60vw;
-    background: url(../images/hero-bg.png)no-repeat,#f9fcbd;
+    background: url(../images/hero-bg.png)no-repeat,#f5bdfc;
     background-position: 50% 8%;
     background-size: 90% auto;
     text-align: center;
@@ -328,7 +328,7 @@ img{
     animation: backInRight 1s linear ;
 }
 .hero-section h1 {
-    color: #fffb85;
+    color: #f985ff;
     margin-bottom: 6vw;
     -webkit-text-stroke: 4px #000;
 }
@@ -539,7 +539,7 @@ img{
     font-size: 1.56vw;
     font-weight: 400;
     line-height: 120%;
-    color: #fffb85;
+    color: #ff85f9;
     border: 5px solid #A461E0;
     border-radius: 2vw;
     text-align: center;
